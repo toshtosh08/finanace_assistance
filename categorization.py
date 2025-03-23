@@ -2,7 +2,8 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report
+import joblib
 
 # Load preprocessed data
 df = pd.read_csv("processed_transactions.csv")
@@ -25,9 +26,9 @@ model.fit(X_train, y_train)
 # Evaluate
 y_pred = model.predict(X_test)
 print(f"Accuracy: {accuracy_score(y_test, y_pred)}")
+print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 # Save the model and vectorizer
-import joblib
 joblib.dump(model, "category_model.pkl")
 joblib.dump(vectorizer, "vectorizer.pkl")
-print("Model saved!")
+print("Model retrained and saved!")

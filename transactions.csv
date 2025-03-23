@@ -1,6 +1,1001 @@
 Date,Description,Amount,Category
-2023-10-01,Starbucks,5.5,Food & Beverage
-2023-10-02,Walmart,120.0,Shopping
-2023-10-03,Netflix,15.99,Entertainment
-2023-10-04,Shell Gas,45.0,Transport
-2023-10-05,McDonald's,10.0,Food & Beverage
+2023-06-16,Doctor Visit,174.96,Healthcare
+2023-10-24,Amazon,134.69,Shopping
+2023-05-18,Target,192.96,Shopping
+2023-08-26,Cinema,172.72,Entertainment
+2023-04-08,Health Insurance,186.52,Healthcare
+2023-08-05,Pharmacy,136.48,Healthcare
+2023-02-24,Phone Bill,168.99,Utilities
+2023-01-25,Internet Bill,115.99,Utilities
+2023-02-10,Health Insurance,113.01,Healthcare
+2023-05-31,McDonald's,14.84,Food & Beverage
+2023-09-01,Water Bill,41.22,Utilities
+2023-01-01,Travel Insurance,167.65,Travel
+2023-01-24,Pharmacy,136.22,Healthcare
+2023-04-07,Netflix,158.13,Entertainment
+2023-09-25,Shell Gas,165.56,Transport
+2023-05-12,Shell Gas,137.15,Transport
+2023-07-12,Airline Ticket,97.72,Travel
+2023-06-19,Health Insurance,114.42,Healthcare
+2023-01-28,Amazon,21.92,Shopping
+2023-09-01,Doctor Visit,27.09,Healthcare
+2023-02-02,Best Buy,183.6,Shopping
+2023-03-25,Burger King,156.67,Food & Beverage
+2023-03-19,Travel Insurance,115.71,Travel
+2023-02-16,Costco,61.49,Shopping
+2023-05-08,Lyft,4.07,Transport
+2023-06-27,Lyft,174.87,Transport
+2023-05-07,Netflix,99.23,Entertainment
+2023-03-03,Dunkin' Donuts,56.99,Food & Beverage
+2023-01-24,Walmart,101.77,Shopping
+2023-05-18,Pizza Hut,24.38,Food & Beverage
+2023-01-26,Burger King,138.11,Food & Beverage
+2023-08-03,Hotel Booking,90.91,Travel
+2023-06-15,Electric Bill,16.13,Utilities
+2023-09-07,Shell Gas,16.03,Transport
+2023-07-01,Travel Insurance,16.87,Travel
+2023-05-23,Theme Park,26.16,Entertainment
+2023-07-31,Car Rental,107.75,Travel
+2023-07-11,Health Insurance,14.69,Healthcare
+2023-02-11,Travel Insurance,52.86,Travel
+2023-07-11,Hotel Booking,171.03,Travel
+2023-01-29,Uber,119.63,Transport
+2023-06-15,Hospital,91.12,Healthcare
+2023-01-29,Netflix,75.01,Entertainment
+2023-06-30,Pharmacy,104.02,Healthcare
+2023-08-15,Electric Bill,112.27,Utilities
+2023-04-22,Health Insurance,189.13,Healthcare
+2023-08-02,Burger King,120.45,Food & Beverage
+2023-09-16,McDonald's,8.66,Food & Beverage
+2023-10-03,Health Insurance,23.25,Healthcare
+2023-05-07,Exxon,184.42,Transport
+2023-02-22,Hotel Booking,24.23,Travel
+2023-09-25,Pharmacy,155.68,Healthcare
+2023-04-16,Health Insurance,163.49,Healthcare
+2023-04-20,Internet Bill,159.28,Utilities
+2023-10-18,Electric Bill,179.54,Utilities
+2023-07-28,Airline Ticket,56.24,Travel
+2023-02-09,Travel Insurance,196.51,Travel
+2023-01-23,Shell Gas,183.38,Transport
+2023-03-21,Spotify,168.47,Entertainment
+2023-05-28,Shell Gas,107.6,Transport
+2023-03-19,Starbucks,130.81,Food & Beverage
+2023-05-21,Pharmacy,76.12,Healthcare
+2023-05-15,Airline Ticket,175.08,Travel
+2023-01-11,Car Rental,101.83,Travel
+2023-06-18,Spotify,150.77,Entertainment
+2023-09-13,Starbucks,84.4,Food & Beverage
+2023-07-18,Dunkin' Donuts,175.94,Food & Beverage
+2023-08-09,Lyft,104.4,Transport
+2023-09-15,Airline Ticket,85.61,Travel
+2023-03-07,Dunkin' Donuts,89.27,Food & Beverage
+2023-03-05,Phone Bill,170.21,Utilities
+2023-07-28,McDonald's,62.98,Food & Beverage
+2023-05-13,Costco,97.1,Shopping
+2023-08-06,Starbucks,75.96,Food & Beverage
+2023-08-07,Phone Bill,188.66,Utilities
+2023-03-22,Target,194.37,Shopping
+2023-05-15,Hospital,89.21,Healthcare
+2023-03-31,Walmart,128.98,Shopping
+2023-01-25,Water Bill,24.35,Utilities
+2023-02-25,Burger King,114.08,Food & Beverage
+2023-06-16,Exxon,38.89,Transport
+2023-10-05,Hospital,50.22,Healthcare
+2023-04-17,McDonald's,10.4,Food & Beverage
+2023-05-09,Health Insurance,164.77,Healthcare
+2023-07-25,Car Rental,82.6,Travel
+2023-06-01,Hotel Booking,179.87,Travel
+2023-02-14,Pharmacy,84.04,Healthcare
+2023-10-11,Lyft,172.97,Transport
+2023-03-12,Travel Insurance,64.31,Travel
+2023-01-30,Costco,177.94,Shopping
+2023-01-23,Spotify,40.31,Entertainment
+2023-10-10,Internet Bill,119.9,Utilities
+2023-08-09,Airline Ticket,39.5,Travel
+2023-04-12,Exxon,148.96,Transport
+2023-04-14,Uber,33.98,Transport
+2023-09-15,Water Bill,199.53,Utilities
+2023-01-04,Spotify,46.78,Entertainment
+2023-04-24,Theme Park,4.46,Entertainment
+2023-06-27,McDonald's,100.54,Food & Beverage
+2023-09-20,Hotel Booking,178.01,Travel
+2023-07-25,Water Bill,119.3,Utilities
+2023-04-10,Airline Ticket,39.58,Travel
+2023-05-20,McDonald's,128.39,Food & Beverage
+2023-08-15,Doctor Visit,108.27,Healthcare
+2023-05-10,Airline Ticket,22.29,Travel
+2023-04-09,Car Rental,145.77,Travel
+2023-04-13,Pharmacy,196.98,Healthcare
+2023-05-07,Pizza Hut,32.63,Food & Beverage
+2023-10-28,Phone Bill,196.16,Utilities
+2023-02-07,Pizza Hut,109.55,Food & Beverage
+2023-02-07,Concert,194.27,Entertainment
+2023-02-19,Health Insurance,165.02,Healthcare
+2023-05-10,Dunkin' Donuts,18.49,Food & Beverage
+2023-09-11,Lyft,34.38,Transport
+2023-02-23,Travel Insurance,191.65,Travel
+2023-10-02,Spotify,2.09,Entertainment
+2023-05-11,Dunkin' Donuts,7.01,Food & Beverage
+2023-06-13,Internet Bill,122.96,Utilities
+2023-09-06,Best Buy,160.85,Shopping
+2023-06-27,Internet Bill,131.8,Utilities
+2023-04-28,Travel Insurance,164.79,Travel
+2023-02-21,Phone Bill,29.49,Utilities
+2023-01-26,Uber,50.65,Transport
+2023-03-23,Hospital,63.87,Healthcare
+2023-06-27,Walmart,114.16,Shopping
+2023-10-09,Exxon,198.42,Transport
+2023-09-20,Dunkin' Donuts,138.11,Food & Beverage
+2023-04-25,Airline Ticket,42.53,Travel
+2023-10-20,Walmart,117.38,Shopping
+2023-08-13,Health Insurance,3.26,Healthcare
+2023-10-21,Car Rental,9.04,Travel
+2023-08-11,Target,151.47,Shopping
+2023-05-31,Spotify,77.68,Entertainment
+2023-07-05,McDonald's,109.76,Food & Beverage
+2023-06-24,Dunkin' Donuts,92.36,Food & Beverage
+2023-06-06,Exxon,5.53,Transport
+2023-04-07,Hospital,9.89,Healthcare
+2023-06-12,Starbucks,43.91,Food & Beverage
+2023-06-12,Pharmacy,75.39,Healthcare
+2023-01-04,Internet Bill,183.32,Utilities
+2023-03-03,Shell Gas,118.37,Transport
+2023-09-10,Car Rental,10.8,Travel
+2023-05-27,Concert,128.96,Entertainment
+2023-05-04,Spotify,142.43,Entertainment
+2023-07-03,Water Bill,194.02,Utilities
+2023-06-25,Best Buy,67.94,Shopping
+2023-01-02,Walmart,177.75,Shopping
+2023-06-13,Shell Gas,96.29,Transport
+2023-06-27,Travel Insurance,41.37,Travel
+2023-02-23,Electric Bill,129.68,Utilities
+2023-02-22,Cinema,143.39,Entertainment
+2023-05-08,Amazon,5.56,Shopping
+2023-05-02,Cinema,97.98,Entertainment
+2023-08-12,Exxon,25.73,Transport
+2023-08-30,Best Buy,54.29,Shopping
+2023-09-19,Pizza Hut,33.51,Food & Beverage
+2023-07-22,Best Buy,122.99,Shopping
+2023-09-17,Uber,188.57,Transport
+2023-07-05,Concert,172.65,Entertainment
+2023-04-12,Walmart,177.93,Shopping
+2023-05-22,Doctor Visit,96.3,Healthcare
+2023-06-04,Hotel Booking,23.79,Travel
+2023-04-05,Doctor Visit,50.91,Healthcare
+2023-06-07,Doctor Visit,136.86,Healthcare
+2023-07-18,Uber,182.03,Transport
+2023-10-15,Shell Gas,28.95,Transport
+2023-03-18,Lyft,45.57,Transport
+2023-03-18,Cinema,126.79,Entertainment
+2023-08-06,Theme Park,125.02,Entertainment
+2023-02-20,Hospital,161.33,Healthcare
+2023-07-22,Target,184.93,Shopping
+2023-01-21,Hospital,122.17,Healthcare
+2023-05-29,Burger King,103.16,Food & Beverage
+2023-05-24,Phone Bill,183.43,Utilities
+2023-08-05,Spotify,133.81,Entertainment
+2023-05-22,Airline Ticket,135.4,Travel
+2023-02-14,Shell Gas,106.62,Transport
+2023-02-20,Pharmacy,196.0,Healthcare
+2023-07-16,Internet Bill,80.04,Utilities
+2023-01-08,Burger King,1.44,Food & Beverage
+2023-05-13,Public Transport,53.12,Transport
+2023-01-17,Public Transport,188.78,Transport
+2023-08-23,Starbucks,141.04,Food & Beverage
+2023-07-31,Cinema,65.85,Entertainment
+2023-01-07,Travel Insurance,52.52,Travel
+2023-09-27,Airline Ticket,68.28,Travel
+2023-10-03,Travel Insurance,150.52,Travel
+2023-03-06,Netflix,35.53,Entertainment
+2023-10-23,Walmart,165.8,Shopping
+2023-08-12,Pharmacy,95.92,Healthcare
+2023-02-08,Cinema,40.51,Entertainment
+2023-03-05,Exxon,159.73,Transport
+2023-05-30,Shell Gas,17.69,Transport
+2023-05-27,Spotify,152.32,Entertainment
+2023-04-09,Walmart,2.33,Shopping
+2023-06-26,Travel Insurance,160.3,Travel
+2023-05-20,Internet Bill,133.15,Utilities
+2023-07-02,Pharmacy,58.09,Healthcare
+2023-08-22,Electric Bill,176.18,Utilities
+2023-08-05,Hotel Booking,188.98,Travel
+2023-09-16,Best Buy,178.66,Shopping
+2023-08-23,Hospital,139.63,Healthcare
+2023-01-04,Theme Park,53.82,Entertainment
+2023-08-22,Costco,62.66,Shopping
+2023-09-22,Lyft,176.77,Transport
+2023-06-25,Spotify,39.83,Entertainment
+2023-08-03,Internet Bill,119.85,Utilities
+2023-04-18,McDonald's,58.46,Food & Beverage
+2023-03-10,Doctor Visit,48.98,Healthcare
+2023-09-12,Starbucks,177.73,Food & Beverage
+2023-08-15,Exxon,141.26,Transport
+2023-04-05,Uber,19.06,Transport
+2023-08-13,Car Rental,57.72,Travel
+2023-04-09,Pizza Hut,156.07,Food & Beverage
+2023-04-11,Shell Gas,109.07,Transport
+2023-10-20,Starbucks,123.75,Food & Beverage
+2023-03-05,Travel Insurance,113.97,Travel
+2023-03-13,Netflix,38.06,Entertainment
+2023-01-14,Airline Ticket,115.59,Travel
+2023-03-13,Starbucks,2.2,Food & Beverage
+2023-08-14,Hospital,14.35,Healthcare
+2023-03-22,Travel Insurance,179.95,Travel
+2023-06-20,Burger King,158.46,Food & Beverage
+2023-07-22,Spotify,20.91,Entertainment
+2023-04-18,Target,164.27,Shopping
+2023-03-31,Car Rental,119.96,Travel
+2023-09-11,Walmart,92.55,Shopping
+2023-08-31,Doctor Visit,136.08,Healthcare
+2023-10-12,Theme Park,7.52,Entertainment
+2023-06-21,Cinema,179.83,Entertainment
+2023-05-14,Best Buy,82.74,Shopping
+2023-03-13,Shell Gas,49.8,Transport
+2023-01-29,Exxon,157.14,Transport
+2023-09-20,Netflix,157.46,Entertainment
+2023-09-21,Costco,88.42,Shopping
+2023-07-27,Target,5.79,Shopping
+2023-07-25,Netflix,58.53,Entertainment
+2023-04-19,Target,81.57,Shopping
+2023-05-19,Water Bill,69.43,Utilities
+2023-03-14,Public Transport,112.54,Transport
+2023-05-03,Best Buy,13.77,Shopping
+2023-06-11,Lyft,91.82,Transport
+2023-10-14,Internet Bill,120.18,Utilities
+2023-09-12,Cinema,181.07,Entertainment
+2023-07-02,Dunkin' Donuts,165.93,Food & Beverage
+2023-02-24,Health Insurance,10.52,Healthcare
+2023-01-26,Electric Bill,70.5,Utilities
+2023-08-29,Doctor Visit,186.85,Healthcare
+2023-10-05,Theme Park,139.8,Entertainment
+2023-08-09,Airline Ticket,108.55,Travel
+2023-06-04,Doctor Visit,115.26,Healthcare
+2023-08-07,Doctor Visit,145.22,Healthcare
+2023-09-08,Travel Insurance,83.73,Travel
+2023-08-24,McDonald's,90.43,Food & Beverage
+2023-01-23,Hotel Booking,12.7,Travel
+2023-05-22,Theme Park,69.98,Entertainment
+2023-05-11,Cinema,140.45,Entertainment
+2023-06-19,Phone Bill,62.39,Utilities
+2023-06-30,Concert,175.54,Entertainment
+2023-06-02,Theme Park,146.09,Entertainment
+2023-10-08,Exxon,199.6,Transport
+2023-04-24,Internet Bill,175.86,Utilities
+2023-06-22,Travel Insurance,65.45,Travel
+2023-05-11,Internet Bill,175.71,Utilities
+2023-07-19,Cinema,29.35,Entertainment
+2023-06-16,Target,8.54,Shopping
+2023-04-18,Pizza Hut,110.15,Food & Beverage
+2023-08-02,Airline Ticket,7.0,Travel
+2023-05-16,Uber,145.97,Transport
+2023-06-10,Public Transport,2.04,Transport
+2023-09-06,Phone Bill,109.04,Utilities
+2023-03-30,Pharmacy,74.77,Healthcare
+2023-06-27,Water Bill,113.53,Utilities
+2023-10-27,Airline Ticket,191.53,Travel
+2023-08-20,Internet Bill,167.38,Utilities
+2023-07-26,Costco,178.08,Shopping
+2023-07-05,Dunkin' Donuts,19.49,Food & Beverage
+2023-01-31,Public Transport,39.78,Transport
+2023-07-29,Airline Ticket,69.67,Travel
+2023-10-07,Internet Bill,145.96,Utilities
+2023-08-24,Hospital,162.03,Healthcare
+2023-03-21,Hospital,30.64,Healthcare
+2023-07-03,Lyft,91.54,Transport
+2023-09-24,Target,59.33,Shopping
+2023-09-13,Internet Bill,57.85,Utilities
+2023-04-12,Pizza Hut,118.98,Food & Beverage
+2023-04-09,Travel Insurance,21.21,Travel
+2023-06-04,Health Insurance,31.24,Healthcare
+2023-07-08,Burger King,103.84,Food & Beverage
+2023-05-06,Spotify,32.09,Entertainment
+2023-01-14,Costco,137.01,Shopping
+2023-08-07,Doctor Visit,85.83,Healthcare
+2023-02-13,Walmart,91.5,Shopping
+2023-08-12,Travel Insurance,150.71,Travel
+2023-08-15,Pharmacy,91.29,Healthcare
+2023-08-15,Pharmacy,102.89,Healthcare
+2023-04-27,Health Insurance,179.95,Healthcare
+2023-07-31,Burger King,19.93,Food & Beverage
+2023-04-05,Cinema,64.68,Entertainment
+2023-04-20,Hotel Booking,128.03,Travel
+2023-04-30,Starbucks,34.09,Food & Beverage
+2023-08-31,Exxon,7.89,Transport
+2023-02-17,Burger King,184.93,Food & Beverage
+2023-08-16,Starbucks,23.09,Food & Beverage
+2023-06-30,Hotel Booking,181.48,Travel
+2023-09-08,McDonald's,13.25,Food & Beverage
+2023-01-01,Lyft,145.19,Transport
+2023-07-03,Health Insurance,177.31,Healthcare
+2023-01-05,Internet Bill,59.34,Utilities
+2023-02-18,Theme Park,55.68,Entertainment
+2023-09-26,Car Rental,135.28,Travel
+2023-07-30,Doctor Visit,79.92,Healthcare
+2023-06-01,Concert,65.73,Entertainment
+2023-10-17,Pizza Hut,77.56,Food & Beverage
+2023-02-11,Electric Bill,29.68,Utilities
+2023-08-30,Pharmacy,143.06,Healthcare
+2023-09-08,Cinema,116.81,Entertainment
+2023-04-12,Walmart,194.52,Shopping
+2023-03-08,Spotify,65.62,Entertainment
+2023-09-29,Exxon,155.68,Transport
+2023-06-15,Shell Gas,21.04,Transport
+2023-06-21,Travel Insurance,195.65,Travel
+2023-05-27,Public Transport,146.74,Transport
+2023-05-02,Uber,157.99,Transport
+2023-04-10,Shell Gas,79.79,Transport
+2023-04-24,Concert,18.91,Entertainment
+2023-03-15,McDonald's,139.36,Food & Beverage
+2023-10-12,Internet Bill,30.09,Utilities
+2023-03-19,Phone Bill,78.41,Utilities
+2023-08-25,Theme Park,70.43,Entertainment
+2023-05-27,Electric Bill,84.1,Utilities
+2023-01-12,Pizza Hut,111.59,Food & Beverage
+2023-01-27,Concert,138.99,Entertainment
+2023-07-05,Electric Bill,54.83,Utilities
+2023-07-27,McDonald's,133.03,Food & Beverage
+2023-09-28,Internet Bill,54.42,Utilities
+2023-09-13,Doctor Visit,64.48,Healthcare
+2023-06-02,Shell Gas,102.95,Transport
+2023-08-28,Water Bill,30.23,Utilities
+2023-06-30,Dunkin' Donuts,162.14,Food & Beverage
+2023-09-07,Lyft,131.86,Transport
+2023-02-28,Amazon,45.64,Shopping
+2023-07-14,Pharmacy,153.15,Healthcare
+2023-06-17,Exxon,192.19,Transport
+2023-10-04,Pizza Hut,7.62,Food & Beverage
+2023-02-25,Exxon,117.04,Transport
+2023-03-01,Spotify,43.91,Entertainment
+2023-02-13,Hospital,82.1,Healthcare
+2023-09-23,Target,98.15,Shopping
+2023-09-10,Best Buy,24.35,Shopping
+2023-04-25,Concert,4.26,Entertainment
+2023-07-25,Airline Ticket,149.49,Travel
+2023-07-15,Shell Gas,48.03,Transport
+2023-02-05,Travel Insurance,89.56,Travel
+2023-01-31,Airline Ticket,53.51,Travel
+2023-04-09,Pizza Hut,13.28,Food & Beverage
+2023-08-03,Public Transport,82.87,Transport
+2023-04-13,Cinema,82.6,Entertainment
+2023-08-04,Travel Insurance,87.31,Travel
+2023-03-09,Water Bill,147.04,Utilities
+2023-06-27,Travel Insurance,86.63,Travel
+2023-10-27,Starbucks,56.52,Food & Beverage
+2023-06-07,Netflix,140.58,Entertainment
+2023-07-24,Airline Ticket,58.25,Travel
+2023-03-01,Best Buy,100.71,Shopping
+2023-09-02,Public Transport,76.29,Transport
+2023-02-27,Walmart,193.26,Shopping
+2023-01-27,Airline Ticket,19.5,Travel
+2023-10-27,Starbucks,130.66,Food & Beverage
+2023-05-31,Hospital,41.06,Healthcare
+2023-06-09,Electric Bill,9.27,Utilities
+2023-02-16,Pizza Hut,181.52,Food & Beverage
+2023-03-21,Walmart,120.46,Shopping
+2023-05-19,Health Insurance,113.53,Healthcare
+2023-09-15,Target,164.06,Shopping
+2023-01-15,Health Insurance,46.12,Healthcare
+2023-06-05,Pharmacy,18.05,Healthcare
+2023-10-22,Exxon,184.76,Transport
+2023-02-02,Phone Bill,74.63,Utilities
+2023-01-06,Costco,137.44,Shopping
+2023-08-27,Car Rental,43.17,Travel
+2023-07-25,Best Buy,32.93,Shopping
+2023-07-10,Shell Gas,30.83,Transport
+2023-02-03,Electric Bill,69.88,Utilities
+2023-01-15,Cinema,40.74,Entertainment
+2023-02-18,Burger King,24.35,Food & Beverage
+2023-04-10,Travel Insurance,65.76,Travel
+2023-06-14,Car Rental,41.47,Travel
+2023-07-27,Lyft,90.31,Transport
+2023-10-25,Travel Insurance,65.11,Travel
+2023-07-17,Uber,27.14,Transport
+2023-02-13,Doctor Visit,162.03,Healthcare
+2023-06-17,Travel Insurance,191.7,Travel
+2023-03-11,Hotel Booking,71.0,Travel
+2023-06-14,Dunkin' Donuts,161.52,Food & Beverage
+2023-08-11,Spotify,155.36,Entertainment
+2023-04-27,Water Bill,113.97,Utilities
+2023-04-03,Airline Ticket,127.67,Travel
+2023-04-09,Internet Bill,50.17,Utilities
+2023-02-08,Public Transport,23.3,Transport
+2023-06-17,Electric Bill,86.75,Utilities
+2023-04-09,Health Insurance,163.54,Healthcare
+2023-07-20,Pharmacy,173.28,Healthcare
+2023-01-24,Hotel Booking,181.9,Travel
+2023-06-26,Dunkin' Donuts,197.05,Food & Beverage
+2023-06-15,Burger King,190.95,Food & Beverage
+2023-03-30,Airline Ticket,149.15,Travel
+2023-01-14,Water Bill,122.18,Utilities
+2023-01-19,Health Insurance,8.94,Healthcare
+2023-08-26,Public Transport,132.35,Transport
+2023-03-01,Best Buy,19.99,Shopping
+2023-02-23,Uber,165.28,Transport
+2023-08-15,Car Rental,14.58,Travel
+2023-02-03,Burger King,139.91,Food & Beverage
+2023-06-07,Best Buy,148.23,Shopping
+2023-04-08,McDonald's,116.33,Food & Beverage
+2023-01-21,Pizza Hut,104.61,Food & Beverage
+2023-06-22,Walmart,114.78,Shopping
+2023-10-04,Spotify,95.83,Entertainment
+2023-03-17,Costco,29.52,Shopping
+2023-04-24,McDonald's,113.23,Food & Beverage
+2023-01-10,Phone Bill,58.19,Utilities
+2023-07-14,Theme Park,122.53,Entertainment
+2023-07-13,Hospital,21.82,Healthcare
+2023-04-06,Airline Ticket,16.21,Travel
+2023-08-08,Pharmacy,39.07,Healthcare
+2023-09-27,McDonald's,34.31,Food & Beverage
+2023-02-05,Water Bill,105.21,Utilities
+2023-10-02,Cinema,122.37,Entertainment
+2023-03-10,Shell Gas,10.87,Transport
+2023-04-03,Electric Bill,139.62,Utilities
+2023-02-23,Airline Ticket,55.72,Travel
+2023-02-19,Hotel Booking,193.33,Travel
+2023-01-08,Theme Park,149.91,Entertainment
+2023-04-08,Health Insurance,11.17,Healthcare
+2023-05-07,Spotify,36.34,Entertainment
+2023-07-18,Dunkin' Donuts,109.58,Food & Beverage
+2023-08-24,Dunkin' Donuts,81.43,Food & Beverage
+2023-07-13,Phone Bill,20.08,Utilities
+2023-10-28,Cinema,75.64,Entertainment
+2023-08-31,Hotel Booking,193.89,Travel
+2023-05-23,Shell Gas,162.87,Transport
+2023-09-29,Lyft,82.41,Transport
+2023-02-11,Pharmacy,94.36,Healthcare
+2023-06-05,Phone Bill,185.56,Utilities
+2023-06-16,Phone Bill,181.55,Utilities
+2023-03-04,Car Rental,128.17,Travel
+2023-05-18,Pizza Hut,20.76,Food & Beverage
+2023-03-07,Water Bill,124.21,Utilities
+2023-01-13,Health Insurance,84.27,Healthcare
+2023-09-08,Travel Insurance,107.62,Travel
+2023-05-20,Concert,135.12,Entertainment
+2023-03-24,Travel Insurance,62.22,Travel
+2023-06-24,Hospital,58.15,Healthcare
+2023-02-27,Doctor Visit,185.64,Healthcare
+2023-08-14,McDonald's,9.95,Food & Beverage
+2023-07-13,Concert,53.35,Entertainment
+2023-04-09,Airline Ticket,146.4,Travel
+2023-08-17,Netflix,104.47,Entertainment
+2023-02-22,Exxon,59.85,Transport
+2023-06-07,Lyft,57.72,Transport
+2023-03-18,Burger King,98.82,Food & Beverage
+2023-01-28,Car Rental,176.23,Travel
+2023-01-24,Pharmacy,176.54,Healthcare
+2023-02-08,Concert,189.0,Entertainment
+2023-06-29,Travel Insurance,33.24,Travel
+2023-01-15,Hotel Booking,133.24,Travel
+2023-04-01,Cinema,91.39,Entertainment
+2023-03-08,Lyft,185.59,Transport
+2023-05-25,McDonald's,75.74,Food & Beverage
+2023-01-09,Health Insurance,32.77,Healthcare
+2023-02-25,Public Transport,151.08,Transport
+2023-08-29,Travel Insurance,64.06,Travel
+2023-05-20,Hotel Booking,52.31,Travel
+2023-04-17,Internet Bill,156.31,Utilities
+2023-10-12,Amazon,187.0,Shopping
+2023-03-18,Cinema,161.91,Entertainment
+2023-05-02,Pharmacy,40.35,Healthcare
+2023-08-28,Target,109.17,Shopping
+2023-10-07,Travel Insurance,153.82,Travel
+2023-06-12,Pizza Hut,42.43,Food & Beverage
+2023-01-24,Shell Gas,41.39,Transport
+2023-09-03,Theme Park,15.14,Entertainment
+2023-07-04,Concert,88.66,Entertainment
+2023-06-22,Phone Bill,168.57,Utilities
+2023-01-16,Spotify,12.9,Entertainment
+2023-08-19,Hotel Booking,61.93,Travel
+2023-08-14,Target,85.68,Shopping
+2023-07-15,Pizza Hut,95.7,Food & Beverage
+2023-08-12,McDonald's,171.64,Food & Beverage
+2023-09-13,Water Bill,143.09,Utilities
+2023-08-20,Hospital,198.36,Healthcare
+2023-05-09,Target,70.14,Shopping
+2023-05-06,Water Bill,79.78,Utilities
+2023-07-25,Spotify,128.95,Entertainment
+2023-02-27,Theme Park,98.18,Entertainment
+2023-10-24,Walmart,74.16,Shopping
+2023-01-26,Cinema,54.6,Entertainment
+2023-05-03,Pizza Hut,1.49,Food & Beverage
+2023-10-28,Shell Gas,192.56,Transport
+2023-07-31,Pizza Hut,18.64,Food & Beverage
+2023-07-08,Electric Bill,128.61,Utilities
+2023-03-21,Travel Insurance,105.05,Travel
+2023-02-03,Costco,107.36,Shopping
+2023-04-10,Phone Bill,167.07,Utilities
+2023-01-03,Electric Bill,77.23,Utilities
+2023-01-06,Pharmacy,70.98,Healthcare
+2023-09-01,Uber,76.66,Transport
+2023-02-06,Netflix,28.63,Entertainment
+2023-07-20,Water Bill,92.45,Utilities
+2023-07-17,Car Rental,33.18,Travel
+2023-09-09,Shell Gas,73.99,Transport
+2023-05-24,Lyft,109.56,Transport
+2023-05-22,Water Bill,167.72,Utilities
+2023-05-06,Concert,89.8,Entertainment
+2023-08-10,Cinema,150.29,Entertainment
+2023-06-17,Phone Bill,105.55,Utilities
+2023-02-21,Amazon,176.39,Shopping
+2023-06-14,Target,108.76,Shopping
+2023-09-17,Internet Bill,35.89,Utilities
+2023-05-02,Pizza Hut,122.19,Food & Beverage
+2023-01-11,Cinema,33.91,Entertainment
+2023-07-20,Spotify,101.01,Entertainment
+2023-03-16,Health Insurance,164.95,Healthcare
+2023-10-25,Public Transport,39.63,Transport
+2023-01-13,Phone Bill,78.29,Utilities
+2023-08-24,Dunkin' Donuts,47.81,Food & Beverage
+2023-08-17,Internet Bill,72.07,Utilities
+2023-01-06,Health Insurance,22.66,Healthcare
+2023-08-15,Lyft,36.57,Transport
+2023-05-25,Phone Bill,65.78,Utilities
+2023-08-12,Shell Gas,28.79,Transport
+2023-05-31,Internet Bill,61.5,Utilities
+2023-08-06,McDonald's,108.24,Food & Beverage
+2023-02-11,Walmart,54.62,Shopping
+2023-03-14,Amazon,44.69,Shopping
+2023-03-09,Pizza Hut,16.09,Food & Beverage
+2023-02-08,Amazon,146.19,Shopping
+2023-09-16,McDonald's,105.84,Food & Beverage
+2023-08-22,Electric Bill,10.6,Utilities
+2023-10-05,Shell Gas,115.07,Transport
+2023-04-21,McDonald's,132.84,Food & Beverage
+2023-10-06,Pharmacy,189.8,Healthcare
+2023-04-15,Internet Bill,145.8,Utilities
+2023-10-20,Electric Bill,178.96,Utilities
+2023-05-07,Costco,101.52,Shopping
+2023-03-11,Internet Bill,17.84,Utilities
+2023-08-23,Car Rental,57.57,Travel
+2023-09-01,Water Bill,43.67,Utilities
+2023-04-02,Hospital,131.79,Healthcare
+2023-08-31,Hospital,59.27,Healthcare
+2023-01-28,Best Buy,86.74,Shopping
+2023-02-28,Concert,160.54,Entertainment
+2023-05-17,Dunkin' Donuts,54.11,Food & Beverage
+2023-01-17,Netflix,141.96,Entertainment
+2023-10-16,Lyft,193.52,Transport
+2023-06-22,Netflix,28.56,Entertainment
+2023-02-23,Electric Bill,146.25,Utilities
+2023-04-27,Hotel Booking,65.13,Travel
+2023-07-15,Burger King,182.28,Food & Beverage
+2023-07-09,Spotify,144.5,Entertainment
+2023-01-27,Dunkin' Donuts,99.65,Food & Beverage
+2023-05-21,Internet Bill,139.27,Utilities
+2023-08-20,Shell Gas,49.41,Transport
+2023-01-08,Shell Gas,186.55,Transport
+2023-09-07,Travel Insurance,138.43,Travel
+2023-07-04,Internet Bill,85.35,Utilities
+2023-02-28,Cinema,180.76,Entertainment
+2023-08-18,Internet Bill,35.52,Utilities
+2023-04-03,Concert,114.13,Entertainment
+2023-01-22,Concert,75.53,Entertainment
+2023-09-15,Concert,64.33,Entertainment
+2023-06-17,Theme Park,108.8,Entertainment
+2023-03-06,Uber,15.09,Transport
+2023-02-19,Phone Bill,58.19,Utilities
+2023-09-26,Internet Bill,121.37,Utilities
+2023-09-02,Electric Bill,20.39,Utilities
+2023-05-30,Doctor Visit,14.94,Healthcare
+2023-03-24,Internet Bill,196.11,Utilities
+2023-02-03,Exxon,54.78,Transport
+2023-10-17,Theme Park,53.42,Entertainment
+2023-05-13,Spotify,7.67,Entertainment
+2023-03-17,Burger King,116.29,Food & Beverage
+2023-05-28,Internet Bill,108.25,Utilities
+2023-07-30,Electric Bill,26.44,Utilities
+2023-02-19,Spotify,146.9,Entertainment
+2023-07-21,Internet Bill,67.58,Utilities
+2023-04-14,Target,93.9,Shopping
+2023-06-26,Netflix,136.19,Entertainment
+2023-10-02,Costco,108.12,Shopping
+2023-03-14,Theme Park,189.04,Entertainment
+2023-02-19,Exxon,170.76,Transport
+2023-07-19,Internet Bill,6.79,Utilities
+2023-03-14,Shell Gas,18.11,Transport
+2023-06-19,Target,7.85,Shopping
+2023-07-03,Phone Bill,25.67,Utilities
+2023-03-27,Electric Bill,124.89,Utilities
+2023-07-02,Cinema,115.61,Entertainment
+2023-07-04,Airline Ticket,173.04,Travel
+2023-06-29,Pizza Hut,65.61,Food & Beverage
+2023-10-09,Target,21.98,Shopping
+2023-07-17,Best Buy,103.24,Shopping
+2023-10-14,Electric Bill,158.71,Utilities
+2023-09-23,Walmart,89.29,Shopping
+2023-07-15,Hotel Booking,103.97,Travel
+2023-08-09,Health Insurance,117.16,Healthcare
+2023-04-10,Dunkin' Donuts,63.03,Food & Beverage
+2023-08-05,Dunkin' Donuts,122.27,Food & Beverage
+2023-03-05,Dunkin' Donuts,104.12,Food & Beverage
+2023-10-10,Internet Bill,186.85,Utilities
+2023-03-16,Phone Bill,189.82,Utilities
+2023-06-19,Travel Insurance,110.41,Travel
+2023-08-22,Pizza Hut,180.58,Food & Beverage
+2023-08-25,Hotel Booking,154.43,Travel
+2023-02-26,Costco,181.04,Shopping
+2023-04-14,Internet Bill,73.47,Utilities
+2023-02-09,Hospital,113.07,Healthcare
+2023-02-20,Electric Bill,83.32,Utilities
+2023-03-18,Pizza Hut,46.95,Food & Beverage
+2023-08-19,Starbucks,18.5,Food & Beverage
+2023-03-27,Hospital,54.5,Healthcare
+2023-05-21,McDonald's,95.27,Food & Beverage
+2023-03-26,Amazon,131.29,Shopping
+2023-03-31,Cinema,93.91,Entertainment
+2023-04-08,Costco,70.42,Shopping
+2023-04-25,Costco,89.49,Shopping
+2023-10-14,Cinema,87.37,Entertainment
+2023-05-04,Water Bill,103.1,Utilities
+2023-08-17,Public Transport,157.27,Transport
+2023-10-16,Walmart,111.93,Shopping
+2023-07-15,Exxon,15.03,Transport
+2023-05-20,Phone Bill,59.77,Utilities
+2023-10-03,Hospital,130.0,Healthcare
+2023-06-24,Health Insurance,18.18,Healthcare
+2023-07-30,Concert,188.76,Entertainment
+2023-06-03,Concert,90.1,Entertainment
+2023-03-30,Hospital,141.77,Healthcare
+2023-10-27,Hospital,133.83,Healthcare
+2023-10-07,Internet Bill,110.67,Utilities
+2023-09-05,Pharmacy,82.92,Healthcare
+2023-05-26,Water Bill,66.72,Utilities
+2023-01-14,Amazon,43.08,Shopping
+2023-09-06,Shell Gas,15.29,Transport
+2023-10-02,Water Bill,198.94,Utilities
+2023-07-27,McDonald's,13.35,Food & Beverage
+2023-07-23,Pizza Hut,39.13,Food & Beverage
+2023-04-29,Water Bill,58.84,Utilities
+2023-01-06,Water Bill,102.91,Utilities
+2023-09-11,Best Buy,46.66,Shopping
+2023-06-15,Doctor Visit,68.08,Healthcare
+2023-04-23,Lyft,44.76,Transport
+2023-02-12,Concert,18.12,Entertainment
+2023-06-22,Hotel Booking,198.13,Travel
+2023-07-27,Shell Gas,64.54,Transport
+2023-02-04,Pharmacy,41.54,Healthcare
+2023-03-04,Lyft,8.03,Transport
+2023-07-15,Spotify,172.5,Entertainment
+2023-04-01,Costco,149.91,Shopping
+2023-01-06,Dunkin' Donuts,14.37,Food & Beverage
+2023-08-24,Target,57.35,Shopping
+2023-05-28,Electric Bill,106.88,Utilities
+2023-02-05,Travel Insurance,118.9,Travel
+2023-06-05,Concert,132.06,Entertainment
+2023-09-10,Concert,171.81,Entertainment
+2023-01-25,Netflix,141.6,Entertainment
+2023-02-21,Pharmacy,8.51,Healthcare
+2023-04-06,Public Transport,147.03,Transport
+2023-07-03,Cinema,4.38,Entertainment
+2023-03-01,Hotel Booking,116.34,Travel
+2023-08-30,Phone Bill,129.84,Utilities
+2023-01-01,Best Buy,77.39,Shopping
+2023-09-28,Car Rental,70.11,Travel
+2023-01-31,Starbucks,140.68,Food & Beverage
+2023-03-08,Hotel Booking,97.83,Travel
+2023-10-28,Travel Insurance,51.46,Travel
+2023-08-21,Pharmacy,77.55,Healthcare
+2023-04-27,Amazon,100.61,Shopping
+2023-06-18,Costco,19.65,Shopping
+2023-02-25,Health Insurance,192.06,Healthcare
+2023-09-14,Starbucks,152.94,Food & Beverage
+2023-07-08,Airline Ticket,45.11,Travel
+2023-05-02,Airline Ticket,98.02,Travel
+2023-09-28,Burger King,53.1,Food & Beverage
+2023-06-25,Travel Insurance,179.67,Travel
+2023-07-05,Hospital,8.01,Healthcare
+2023-04-19,Electric Bill,97.22,Utilities
+2023-09-13,Electric Bill,166.87,Utilities
+2023-04-22,Phone Bill,22.93,Utilities
+2023-03-23,Shell Gas,84.66,Transport
+2023-08-18,Pharmacy,6.61,Healthcare
+2023-10-28,Netflix,159.31,Entertainment
+2023-03-10,Cinema,54.3,Entertainment
+2023-02-04,Airline Ticket,139.96,Travel
+2023-08-09,Shell Gas,120.21,Transport
+2023-09-29,Hotel Booking,116.53,Travel
+2023-05-01,Cinema,191.8,Entertainment
+2023-09-10,Car Rental,111.71,Travel
+2023-01-13,Electric Bill,82.59,Utilities
+2023-08-08,Best Buy,178.63,Shopping
+2023-04-05,McDonald's,59.61,Food & Beverage
+2023-08-07,Concert,82.52,Entertainment
+2023-09-05,Public Transport,196.3,Transport
+2023-01-28,Uber,134.78,Transport
+2023-04-30,Shell Gas,7.78,Transport
+2023-06-19,Target,161.13,Shopping
+2023-01-16,Phone Bill,62.52,Utilities
+2023-02-26,McDonald's,59.53,Food & Beverage
+2023-08-01,Hotel Booking,178.35,Travel
+2023-01-01,Amazon,172.32,Shopping
+2023-06-04,Starbucks,104.4,Food & Beverage
+2023-02-10,Public Transport,76.13,Transport
+2023-07-19,Airline Ticket,87.71,Travel
+2023-07-09,Uber,140.72,Transport
+2023-05-31,Travel Insurance,71.26,Travel
+2023-10-15,Phone Bill,95.12,Utilities
+2023-02-07,Concert,94.6,Entertainment
+2023-06-05,Public Transport,122.1,Transport
+2023-07-10,Cinema,112.03,Entertainment
+2023-03-10,Target,161.94,Shopping
+2023-03-11,Internet Bill,126.0,Utilities
+2023-06-02,Costco,15.39,Shopping
+2023-08-06,Car Rental,82.87,Travel
+2023-05-11,Pharmacy,134.26,Healthcare
+2023-10-18,Walmart,74.57,Shopping
+2023-06-18,Cinema,108.88,Entertainment
+2023-01-27,Netflix,54.43,Entertainment
+2023-09-06,Spotify,110.31,Entertainment
+2023-09-09,McDonald's,137.75,Food & Beverage
+2023-09-20,Doctor Visit,197.6,Healthcare
+2023-02-10,Pizza Hut,164.47,Food & Beverage
+2023-04-19,Airline Ticket,187.05,Travel
+2023-01-12,Cinema,75.84,Entertainment
+2023-08-21,Hospital,105.51,Healthcare
+2023-06-10,Lyft,196.22,Transport
+2023-06-30,Hospital,150.57,Healthcare
+2023-08-22,Pizza Hut,196.84,Food & Beverage
+2023-08-30,Car Rental,86.93,Travel
+2023-05-03,Internet Bill,1.53,Utilities
+2023-07-29,Theme Park,173.82,Entertainment
+2023-09-16,Uber,31.81,Transport
+2023-02-17,Theme Park,134.76,Entertainment
+2023-07-28,Public Transport,112.23,Transport
+2023-07-02,Cinema,124.57,Entertainment
+2023-07-27,Starbucks,198.61,Food & Beverage
+2023-07-18,McDonald's,13.22,Food & Beverage
+2023-08-22,Cinema,111.51,Entertainment
+2023-10-12,Travel Insurance,196.37,Travel
+2023-07-05,Cinema,109.59,Entertainment
+2023-03-06,Best Buy,153.64,Shopping
+2023-01-30,Car Rental,131.73,Travel
+2023-03-30,Amazon,28.18,Shopping
+2023-10-03,Doctor Visit,158.61,Healthcare
+2023-08-30,Amazon,4.36,Shopping
+2023-09-28,Walmart,4.67,Shopping
+2023-06-28,Exxon,58.4,Transport
+2023-08-24,Water Bill,42.04,Utilities
+2023-07-02,Hospital,103.33,Healthcare
+2023-08-03,Theme Park,65.29,Entertainment
+2023-01-01,Lyft,22.98,Transport
+2023-07-25,Internet Bill,5.1,Utilities
+2023-09-24,Uber,150.71,Transport
+2023-05-04,Dunkin' Donuts,1.68,Food & Beverage
+2023-06-07,Theme Park,175.48,Entertainment
+2023-07-07,Pharmacy,25.51,Healthcare
+2023-10-13,Netflix,171.94,Entertainment
+2023-08-03,Cinema,95.95,Entertainment
+2023-02-06,Spotify,53.11,Entertainment
+2023-05-22,Lyft,167.85,Transport
+2023-09-10,Dunkin' Donuts,171.8,Food & Beverage
+2023-03-16,Health Insurance,160.91,Healthcare
+2023-01-21,Costco,95.18,Shopping
+2023-02-20,Doctor Visit,6.14,Healthcare
+2023-03-17,Public Transport,2.27,Transport
+2023-06-26,Exxon,96.56,Transport
+2023-01-15,Water Bill,36.84,Utilities
+2023-08-29,Car Rental,169.36,Travel
+2023-03-07,Shell Gas,21.24,Transport
+2023-06-02,Theme Park,18.37,Entertainment
+2023-06-14,Electric Bill,39.29,Utilities
+2023-06-02,Starbucks,17.74,Food & Beverage
+2023-01-07,Water Bill,110.04,Utilities
+2023-05-08,Pharmacy,127.11,Healthcare
+2023-04-30,Phone Bill,69.98,Utilities
+2023-06-04,Theme Park,91.91,Entertainment
+2023-02-15,Burger King,15.22,Food & Beverage
+2023-02-24,Water Bill,136.59,Utilities
+2023-06-25,Pizza Hut,43.45,Food & Beverage
+2023-04-28,Internet Bill,40.19,Utilities
+2023-01-25,Airline Ticket,39.27,Travel
+2023-03-31,Airline Ticket,7.98,Travel
+2023-07-30,Health Insurance,51.9,Healthcare
+2023-04-23,Health Insurance,178.12,Healthcare
+2023-03-18,Cinema,35.1,Entertainment
+2023-06-23,Internet Bill,193.98,Utilities
+2023-02-11,Pharmacy,77.14,Healthcare
+2023-08-27,Best Buy,43.49,Shopping
+2023-10-14,Theme Park,158.59,Entertainment
+2023-03-22,Theme Park,16.82,Entertainment
+2023-10-01,Phone Bill,51.65,Utilities
+2023-05-21,Pharmacy,31.54,Healthcare
+2023-03-01,Travel Insurance,118.59,Travel
+2023-08-07,Spotify,194.05,Entertainment
+2023-10-26,Target,165.82,Shopping
+2023-05-29,Uber,57.4,Transport
+2023-08-18,Hospital,99.47,Healthcare
+2023-07-01,Spotify,152.47,Entertainment
+2023-04-10,Travel Insurance,66.23,Travel
+2023-05-17,Walmart,189.44,Shopping
+2023-06-28,Amazon,150.2,Shopping
+2023-06-02,Netflix,141.81,Entertainment
+2023-09-11,Amazon,164.28,Shopping
+2023-06-30,Costco,163.71,Shopping
+2023-05-30,Cinema,14.09,Entertainment
+2023-10-08,Burger King,138.7,Food & Beverage
+2023-05-24,Starbucks,180.99,Food & Beverage
+2023-01-04,Cinema,42.11,Entertainment
+2023-08-05,Spotify,102.78,Entertainment
+2023-03-26,Doctor Visit,5.23,Healthcare
+2023-04-28,Electric Bill,164.55,Utilities
+2023-02-06,Spotify,86.59,Entertainment
+2023-03-17,Internet Bill,152.51,Utilities
+2023-05-06,Theme Park,118.1,Entertainment
+2023-03-18,Starbucks,20.5,Food & Beverage
+2023-08-13,Water Bill,81.56,Utilities
+2023-05-06,Public Transport,66.31,Transport
+2023-09-05,Public Transport,137.12,Transport
+2023-02-15,Pizza Hut,140.45,Food & Beverage
+2023-05-03,Walmart,154.62,Shopping
+2023-06-27,Exxon,174.18,Transport
+2023-10-08,Costco,159.96,Shopping
+2023-09-07,Electric Bill,51.53,Utilities
+2023-07-01,Amazon,169.21,Shopping
+2023-06-23,Car Rental,193.82,Travel
+2023-09-30,Pharmacy,114.96,Healthcare
+2023-06-19,Starbucks,105.05,Food & Beverage
+2023-05-19,Electric Bill,194.47,Utilities
+2023-05-04,Phone Bill,107.73,Utilities
+2023-04-19,Lyft,115.91,Transport
+2023-07-30,Health Insurance,42.29,Healthcare
+2023-04-26,Travel Insurance,187.44,Travel
+2023-07-27,Best Buy,15.81,Shopping
+2023-02-11,Public Transport,79.8,Transport
+2023-09-05,Burger King,159.14,Food & Beverage
+2023-07-08,Health Insurance,115.32,Healthcare
+2023-02-27,Lyft,43.56,Transport
+2023-05-18,Starbucks,66.52,Food & Beverage
+2023-03-07,Costco,10.3,Shopping
+2023-01-16,Health Insurance,181.64,Healthcare
+2023-09-10,Burger King,122.73,Food & Beverage
+2023-03-03,Hospital,127.15,Healthcare
+2023-03-03,Shell Gas,131.54,Transport
+2023-06-14,Public Transport,120.89,Transport
+2023-03-24,Amazon,109.88,Shopping
+2023-07-07,Travel Insurance,126.61,Travel
+2023-08-16,Spotify,148.83,Entertainment
+2023-05-30,Public Transport,19.2,Transport
+2023-01-19,Health Insurance,169.74,Healthcare
+2023-04-29,Water Bill,75.02,Utilities
+2023-01-02,Hospital,25.49,Healthcare
+2023-04-08,Shell Gas,195.34,Transport
+2023-08-24,Hospital,83.0,Healthcare
+2023-10-04,Amazon,100.09,Shopping
+2023-07-02,Costco,46.6,Shopping
+2023-09-01,Amazon,73.74,Shopping
+2023-05-25,Target,104.45,Shopping
+2023-08-25,Car Rental,113.39,Travel
+2023-08-21,Target,82.06,Shopping
+2023-08-24,Theme Park,92.13,Entertainment
+2023-06-09,Airline Ticket,184.44,Travel
+2023-01-09,Travel Insurance,46.28,Travel
+2023-02-01,Pharmacy,149.98,Healthcare
+2023-07-19,Hotel Booking,175.0,Travel
+2023-09-20,Cinema,164.3,Entertainment
+2023-02-22,Electric Bill,137.69,Utilities
+2023-09-04,Public Transport,82.72,Transport
+2023-02-23,Lyft,67.58,Transport
+2023-10-27,Electric Bill,51.6,Utilities
+2023-07-29,Dunkin' Donuts,125.01,Food & Beverage
+2023-09-22,Exxon,42.33,Transport
+2023-09-27,Target,78.63,Shopping
+2023-07-09,Netflix,173.81,Entertainment
+2023-07-29,Netflix,85.4,Entertainment
+2023-06-20,Hospital,166.38,Healthcare
+2023-07-09,Car Rental,1.9,Travel
+2023-01-06,Netflix,87.06,Entertainment
+2023-08-02,Concert,50.39,Entertainment
+2023-05-22,Pharmacy,45.01,Healthcare
+2023-05-30,Shell Gas,44.96,Transport
+2023-05-24,Dunkin' Donuts,174.91,Food & Beverage
+2023-06-03,Walmart,171.31,Shopping
+2023-07-28,Concert,5.86,Entertainment
+2023-09-10,Costco,32.98,Shopping
+2023-06-18,Hotel Booking,102.64,Travel
+2023-08-19,Health Insurance,103.84,Healthcare
+2023-07-23,Hospital,198.89,Healthcare
+2023-09-25,Concert,98.87,Entertainment
+2023-06-08,Pizza Hut,54.98,Food & Beverage
+2023-01-22,Car Rental,166.96,Travel
+2023-04-16,Hospital,128.96,Healthcare
+2023-02-04,Hospital,11.23,Healthcare
+2023-10-15,Internet Bill,172.92,Utilities
+2023-06-20,Phone Bill,89.79,Utilities
+2023-01-22,Electric Bill,73.86,Utilities
+2023-10-13,Electric Bill,153.75,Utilities
+2023-08-21,Car Rental,175.68,Travel
+2023-09-28,Cinema,64.92,Entertainment
+2023-08-27,Pharmacy,24.31,Healthcare
+2023-09-12,Amazon,90.11,Shopping
+2023-05-07,Phone Bill,149.24,Utilities
+2023-06-11,Pharmacy,86.4,Healthcare
+2023-05-09,Health Insurance,46.18,Healthcare
+2023-02-25,Dunkin' Donuts,128.68,Food & Beverage
+2023-05-14,Hospital,55.17,Healthcare
+2023-10-23,Airline Ticket,1.88,Travel
+2023-05-20,Starbucks,35.3,Food & Beverage
+2023-03-27,Public Transport,98.83,Transport
+2023-07-28,Walmart,20.01,Shopping
+2023-09-30,Travel Insurance,135.22,Travel
+2023-08-22,Hotel Booking,144.17,Travel
+2023-06-05,Target,163.4,Shopping
+2023-07-10,Concert,116.55,Entertainment
+2023-02-12,Airline Ticket,154.0,Travel
+2023-01-21,Exxon,91.55,Transport
+2023-08-22,Doctor Visit,42.89,Healthcare
+2023-08-15,Costco,46.53,Shopping
+2023-04-02,Burger King,124.05,Food & Beverage
+2023-02-08,Amazon,34.3,Shopping
+2023-04-18,Phone Bill,149.12,Utilities
+2023-09-21,Doctor Visit,43.32,Healthcare
+2023-04-27,Pizza Hut,34.66,Food & Beverage
+2023-07-28,Exxon,130.25,Transport
+2023-08-17,Costco,141.86,Shopping
+2023-08-05,Theme Park,193.87,Entertainment
+2023-07-28,Cinema,122.63,Entertainment
+2023-06-11,Water Bill,139.08,Utilities
+2023-06-04,Spotify,98.42,Entertainment
+2023-10-21,Hospital,186.06,Healthcare
+2023-02-27,Burger King,188.44,Food & Beverage
+2023-08-20,Starbucks,88.21,Food & Beverage
+2023-08-25,Hotel Booking,196.5,Travel
+2023-02-14,Pizza Hut,1.74,Food & Beverage
+2023-07-08,Lyft,182.69,Transport
+2023-08-26,Travel Insurance,13.04,Travel
+2023-08-04,Phone Bill,16.54,Utilities
+2023-10-06,Travel Insurance,119.38,Travel
+2023-03-07,Travel Insurance,162.69,Travel
+2023-05-13,Starbucks,180.22,Food & Beverage
+2023-02-22,Phone Bill,34.23,Utilities
+2023-03-07,Travel Insurance,176.55,Travel
+2023-07-29,Pizza Hut,25.97,Food & Beverage
+2023-06-17,Hospital,196.45,Healthcare
+2023-03-22,Airline Ticket,110.47,Travel
+2023-09-21,Pharmacy,186.76,Healthcare
+2023-09-18,Doctor Visit,178.41,Healthcare
+2023-07-16,Concert,39.13,Entertainment
+2023-10-07,Theme Park,16.75,Entertainment
+2023-08-21,Best Buy,137.58,Shopping
+2023-07-13,Internet Bill,196.3,Utilities
+2023-01-03,Electric Bill,84.83,Utilities
+2023-07-15,Phone Bill,73.33,Utilities
+2023-08-30,Concert,161.75,Entertainment
+2023-07-12,Hotel Booking,137.71,Travel
+2023-03-17,Starbucks,68.42,Food & Beverage
+2023-03-18,Doctor Visit,145.55,Healthcare
+2023-07-29,Target,181.56,Shopping
+2023-03-02,Hospital,38.12,Healthcare
+2023-01-30,Target,11.71,Shopping
+2023-07-10,Health Insurance,185.07,Healthcare
+2023-08-31,McDonald's,14.6,Food & Beverage
+2023-02-03,Car Rental,7.33,Travel
+2023-08-24,Phone Bill,181.13,Utilities
+2023-02-12,Phone Bill,158.34,Utilities
+2023-03-28,Pizza Hut,44.99,Food & Beverage
+2023-02-28,Netflix,175.15,Entertainment
+2023-10-05,Phone Bill,177.83,Utilities
+2023-05-26,Doctor Visit,105.24,Healthcare
+2023-01-03,Walmart,103.17,Shopping
+2023-07-07,Theme Park,123.99,Entertainment
+2023-07-26,Dunkin' Donuts,189.64,Food & Beverage
+2023-05-19,Pizza Hut,2.06,Food & Beverage
+2023-02-09,Doctor Visit,70.16,Healthcare
+2023-06-24,Travel Insurance,90.74,Travel
+2023-10-05,Netflix,192.79,Entertainment
+2023-05-22,Hospital,96.8,Healthcare
+2023-08-19,Costco,158.04,Shopping
+2023-04-17,Airline Ticket,122.18,Travel
+2023-10-07,Burger King,126.66,Food & Beverage
+2023-06-03,Spotify,21.19,Entertainment
+2023-09-17,Electric Bill,125.19,Utilities
+2023-10-13,Internet Bill,73.09,Utilities
+2023-06-02,Walmart,150.88,Shopping
+2023-07-11,Car Rental,31.0,Travel
+2023-02-06,Cinema,137.84,Entertainment
+2023-06-13,Dunkin' Donuts,7.23,Food & Beverage
+2023-02-01,Travel Insurance,11.53,Travel
+2023-03-26,Airline Ticket,44.45,Travel
+2023-09-12,Target,99.59,Shopping
+2023-02-28,Pizza Hut,68.81,Food & Beverage
+2023-01-19,Hotel Booking,19.54,Travel
+2023-04-11,Water Bill,80.14,Utilities

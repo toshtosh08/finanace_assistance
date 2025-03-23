@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-import pandas as pd
 import joblib
 
 app = Flask(__name__)
@@ -17,7 +16,7 @@ def predict():
     description = request.form['description']
     X = vectorizer.transform([description])
     category = model.predict(X)[0]
-    return f"Predicted Category: {category}"
+    return render_template("index.html", prediction=category, description=description)
 
 if __name__ == "__main__":
     app.run(debug=True)
